@@ -469,7 +469,7 @@ const ArtistAcquisition = () => {
           ></div>
           <div className="relative z-10 flex flex-col sm:flex-row items-center justify-between">
             <h1 className="text-4xl md:text-6xl font-extrabold text-white leading-tight drop-shadow-lg text-center sm:text-left">
-              Grupos Musicales
+              Artistas Adquiridos
             </h1>
             <div className="flex gap-2 mt-4 sm:mt-0">
               <motion.button
